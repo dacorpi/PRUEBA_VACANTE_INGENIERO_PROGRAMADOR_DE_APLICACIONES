@@ -162,6 +162,7 @@ nav .container{
     font-size: 16px;
     text-transform: capitalize;
     text-decoration: none;
+    cursor: move
 }
 
 .containerRight{
@@ -195,8 +196,4 @@ footer p{
     margin: 1rem 0;
     color: azure;
     text-align: center;
-}
-
-a{
-    cursor: pointer;
 }
